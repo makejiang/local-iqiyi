@@ -1,0 +1,21 @@
+{
+  "author": "Github",
+  "description": "placeholder",
+  "detail_describe": "搜索影片、明星、角色与片单\n按类型、题材和榜单推荐内容\n查询影片详情、关联内容和剧集\n支持播放、暂停、切集和快进\n无客户端时提供 H5 播放和客户端下载",
+  "display_description": "一句话发现爱奇艺精彩内容，热门好片随时开播，更有基于英特尔平台优化的本地超分，智能插帧等高阶试听能力",
+  "display_name": "爱奇艺视频",
+  "is_downloaded": false,
+  "name": "local-iqiyi",
+  "scope": [
+    "main"
+  ],
+  "show_description": "一句话发现爱奇艺精彩内容，热门好片随时开播，更有基于英特尔平台优化的本地超分，智能插帧等高阶试听能力",
+  "show_name": "爱奇艺视频",
+  "type": "英特尔用户专区",
+  "use_cases": [
+    "帮我找几部适合全家一起看的电影",
+    "搜一下周星驰演的电影，并列出影片简介和播放入口",
+    "播放《逐玉》第 5 集"
+  ],
+  "version": "1.0.2"
+}
